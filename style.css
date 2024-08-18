@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  background: linear-gradient(45deg, #190361 0%, #b0f 100%);
+  font-size: 1.6rem;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+body,
+button {
+  font-family: "DM Sans", sans-serif;
+}
+
+.hide {
+  display: none;
+}
+
+main {
+  width: min(42.8rem, 90%);
+  padding: 4.8rem 6.4rem 6.4rem;
+  text-align: center;
+  border-radius: 0.5rem;
+  background: #fff;
+  box-shadow: 0 0.2rem 0.5rem 0 rgba(0, 0, 0, 0.8);
+  margin-top: -12rem;
+}
+
+/* Screen 1 */
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.4rem;
+  margin-bottom: 1.4rem;
+  color: #34355b;
+  font-weight: 700;
+}
+
+p {
+  color: #34355b;
+  margin-bottom: 2rem;
+}
+
+
+
+/* Screen 2 */
