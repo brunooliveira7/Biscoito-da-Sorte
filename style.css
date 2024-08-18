@@ -98,25 +98,23 @@ p {
 }
 
 /* Screen 2 */
-
-.screen2 {
-  display: flex;
-  flex-direction: column;
-  gap: 1.7rem;
-}
-
 .screen2 h1 {
   margin: 0;
+  margin-bottom: 1.7rem;
 }
 
-.screen2 p {
+.msgTry {
   padding: 1rem;
   background: #e4edf1;
   box-shadow: 0.2rem 0.2rem 0 rgba(85, 85, 85, 0.5);
   color: #000;
   font-family: "Dancing Script", cursive;
   font-size: 2.4rem;
-  margin: 0;
+  margin: 0 1.7rem;
+}
+
+.screen2 img {
+  margin: 1.7rem 0;
 }
 
 button {
