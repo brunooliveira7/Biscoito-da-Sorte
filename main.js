@@ -19,9 +19,10 @@ btnLucky.addEventListener("click", clickImg);
 btnReset.addEventListener("click", resetClick);
 
 function clickImg() {
+  toggleScreen();
+
   const randomPhrase = phrases[Math.floor(Math.random() * phrases.length)];
   msgLucky.innerText = randomPhrase;
-  toggleScreen();
 }
 
 function resetClick() {
