@@ -1,9 +1,9 @@
 const screen1 = document.querySelector(".screen1");
 const screen2 = document.querySelector(".screen2");
 
-const btnTry = document.querySelector(".btnTry");
+const btnLucky = document.querySelector(".btnLucky");
 const btnReset = document.querySelector(".btnReset");
-const msgTry = document.querySelector(".msgTry");
+const msgLucky = document.querySelector(".msgLucky");
 
 const phrases = [
   "Se alguém está tão cansado que não possa te dar um sorriso, deixa-lhe o teu.",
@@ -17,12 +17,12 @@ const phrases = [
   "Tudo posso naquele que me fortalece.",
 ];
 
-btnTry.addEventListener("click", clickImg);
+btnLucky.addEventListener("click", clickImg);
 btnReset.addEventListener("click", resetClick);
 
 function clickImg() {
   const randomPhrase = phrases[Math.floor(Math.random() * phrases.length)];
-  msgTry.innerText = randomPhrase;
+  msgLucky.innerText = randomPhrase;
   toggleScreen();
 }
 
