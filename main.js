@@ -1,10 +1,8 @@
 const screen1 = document.querySelector(".screen1");
 const screen2 = document.querySelector(".screen2");
-
 const btnLucky = document.querySelector(".btnLucky");
 const btnReset = document.querySelector(".btnReset");
 const msgLucky = document.querySelector(".msgLucky");
-
 const phrases = [
   "Se alguém está tão cansado que não possa te dar um sorriso, deixa-lhe o teu.",
   "O sucesso é a soma de pequenos esforços repetidos diariamente.",
