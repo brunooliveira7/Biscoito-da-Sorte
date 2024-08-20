@@ -1,7 +1,7 @@
 <h1 align="center"> Site Biscoito da Sorte </h1>
 
 <p align="center">
-O formulário de avaliação de mentoria é uma ferramenta utilizada para coletar feedback, medir desempenho ou satisfação, obter dados relevantes sobre o serviço e coletar outras experiências. Site disponível em: https://brunooliveira7.github.io/Fomulario-de-avaliacao/
+O formulário de avaliação de mentoria é uma ferramenta utilizada para coletar feedback, medir desempenho ou satisfação, obter dados relevantes sobre o serviço e coletar outras experiências. Site disponível em: https://brunooliveira7.github.io/Biscoito-da-Sorte/
 </p>
 
 <p align="center">
