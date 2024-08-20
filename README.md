@@ -1,7 +1,7 @@
 <h1 align="center"> Site Biscoito da Sorte </h1>
 
 <p align="center">
-O formulário de avaliação de mentoria é uma ferramenta utilizada para coletar feedback, medir desempenho ou satisfação, obter dados relevantes sobre o serviço e coletar outras experiências. Site disponível em: https://brunooliveira7.github.io/Biscoito-da-Sorte/
+Site que, ao ser acessado, apresenta a imagem digital de um biscoito da sorte tradicional. Ao clicar no biscoito, ele se "quebra" virtualmente, revelando uma mensagem inspiradora, divertida ou reflexiva, como as encontradas nos biscoitos físicos. Site disponível em: https://brunooliveira7.github.io/Biscoito-da-Sorte/
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O formulário de avaliação de mentoria é um agregador na gestão de informação gerencial.
+O Site Biscoito da Sorte é uma ótima opção para quem busca um momento de inspiração.
 
 ## 🔖 Layout
 
