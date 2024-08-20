@@ -12,7 +12,7 @@ O formulário de avaliação de mentoria é uma ferramenta utilizada para coleta
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/brunooliveira7/Biscoito-da-Sorte/blob/main/assets/Layout%20Biscoito.png">
 </p>
 
 <br>
@@ -32,7 +32,7 @@ O formulário de avaliação de mentoria é um agregador na gestão de informaç
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/zF8CuZsMRap9irG8dZQLvp/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?node-id=0-1&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/KNHlg6jgeuOlbTq9aBqq5S/Biscoito-da-Sorte-(Community)?node-id=0-1&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
